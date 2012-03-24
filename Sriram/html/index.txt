@@ -1,0 +1,49 @@
+<HTML>
+<HEAD>
+  <TITLE>Haridass</TITLE>
+</HEAD>
+<BODY BGCOLOR="#000000" TEXT="#cccccc" LINK="#cccccc" ALINK="#cccccc"
+VLINK="#cccccc">
+
+<FORM>
+<TABLE WIDTH="100%">
+  <TR>
+    <TD WIDTH="20%">
+    &nbsp;<A HREF="intro.html" TARGET="MainFrame"><INPUT SRC="Resources/weblogo.jpg"
+    WIDTH="180" HEIGHT="83" ALIGN="BOTTOM" BORDER="0" NATURALSIZEFLAG="2"
+    TYPE="image" NAME="Home Page"></A></TD> 
+    <TD WIDTH="20%">
+
+    <P><CENTER><B><I><FONT SIZE="+4">&nbsp;</FONT><FONT SIZE="+3"
+     FACE="Verdana">Parallel</FONT></I></B></CENTER></TD>
+    <TD WIDTH="20%">
+    &nbsp;<B><I><FONT SIZE="+3" FACE="Verdana">Computer</FONT></I></B></TD> 
+    <TD WIDTH="20%">
+    &nbsp;<B><I><FONT SIZE="+3" FACE="Verdana">Services</FONT></I></B></TD> 
+    <TD WIDTH="20%">
+    &nbsp;<IMG SRC="Resources/weblogo.jpg" WIDTH="180" HEIGHT="83"
+    ALIGN="BOTTOM" BORDER="0" NATURALSIZEFLAG="2"></TD> 
+  </TR>
+  <TR>
+
+    <TD WIDTH="20%">
+    <P><CENTER>&nbsp;<B><I><FONT FACE="Verdana"><A HREF="contact.html"
+    TARGET="MainFrame">Contact Us</A></FONT></I></B></CENTER></TD>
+    <TD WIDTH="20%">
+    <P><CENTER><B><I><FONT FACE="Verdana"><A HREF="software.html"
+    TARGET="MainFrame">Software</A></FONT></I></B></CENTER></TD>
+    <TD WIDTH="20%">
+    <P><CENTER>&nbsp;<B><I><FONT FACE="Verdana"><A HREF="hardware.html"
+    TARGET="MainFrame">Hardware</A></FONT></I></B></CENTER></TD>
+    <TD WIDTH="20%">
+
+    <P><CENTER>&nbsp;<B><I><FONT FACE="Verdana"><A HREF="support.html"
+    TARGET="MainFrame">Support</A></FONT></I></B></CENTER></TD>
+    <TD WIDTH="20%">
+    <P><CENTER><B><I><FONT FACE="Verdana"><A HREF="about.html" TARGET="MainFrame">About
+    Us</A></FONT></I></B></CENTER></TD>
+  </TR>
+</TABLE></FORM>
+
+</BODY>
+</HTML>
